@@ -1,7 +1,7 @@
 # Bus-pussenger-flow-with-Dynamic-GNNs
 The original data and code 
 
-1.The original data is too big . I can't share it in github, it is more than 25Mb after zip. Please free to contact me :xinyizhou1997@163.com. I would share it to you.
+1.The original data is too big . I can't share it in github, it is more than 25Mb after zip. Please free to contact me :xinyizhou0318@gmail.com. I would share it to you.
 2.The data we used is AMES, Jan, 2022.
 3.The distance matrix can be organized in google map.
 4.The speed matrix can be calculated with the oridinal data such as "sorted_by_stop_2022_01.xlsx".
