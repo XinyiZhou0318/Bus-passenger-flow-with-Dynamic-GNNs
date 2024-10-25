@@ -1,0 +1,4 @@
+service_id,date,exception_type
+SWD,20220530,2
+SWDAQ,20210704,2
+SWD,20210704,2

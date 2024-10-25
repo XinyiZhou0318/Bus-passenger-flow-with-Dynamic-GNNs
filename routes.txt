@@ -1,0 +1,16 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+811,CYRIDE,1,Red West, ,3, ,da1f3d,ffffff
+812,CYRIDE,1,Red East, ,3, ,da1f3d,ffffff
+821,CYRIDE,2,Green West, ,3, ,008a4b,ffffff
+822,CYRIDE,2,Green East, ,3, ,008a4b,ffffff
+830,CYRIDE,3,Blue, ,3, ,1989ca,ffffff
+850,CYRIDE,5,Yellow, ,3, ,ffcc00,000000
+861,CYRIDE,6,Brown South, ,3, ,996633,ffffff
+862,CYRIDE,6,Brown North, ,3, ,996633,ffffff
+870,CYRIDE,7,Purple, ,3, ,6c55a3,ffffff
+880,CYRIDE,8,Aqua, ,3, ,1fb7da,ffffff
+890,CYRIDE,9,Plum, ,3, ,a74888,ffffff
+900,CYRIDE,11,Cherry, ,3, ,ff4422,ffffff
+920,CYRIDE,14,Peach, ,3, ,ff9966,000000
+940,CYRIDE,23,Orange, ,3, ,f87600,ffffff
+950,CYRIDE,25,Gold, ,3, ,cca02f,ffffff

@@ -1,0 +1,7 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+SWD,1,1,1,1,1,0,0,20220514,20220814
+SSA,0,0,0,0,0,1,0,20220514,20220814
+SSU,0,0,0,0,0,0,1,20220514,20220814
+SWDAQ,1,1,1,1,1,0,0,20220528,20220814
+SSAAQ,0,0,0,0,0,1,0,20220528,20220814
+SSUAQ,0,0,0,0,0,0,1,20220528,20220814
