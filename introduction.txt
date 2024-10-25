@@ -1,0 +1,17 @@
+1. The weather information can be found at： https://www.wunderground.com/history/monthly/us/ia/ames/KDSM
+
+2.Holidays can be searched on Google：
+Public Holidays:
+January 1 (Saturday): New Year's Day
+January 17 (Monday): Martin Luther King Jr. Day
+Weekends:
+January 1 (Saturday)
+January 2 (Sunday)
+January 8 (Saturday)
+January 9 (Sunday)
+January 15 (Saturday)
+January 16 (Sunday)
+January 22 (Saturday)
+January 23 (Sunday)
+January 29 (Saturday)
+January 30 (Sunday)
